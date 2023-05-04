@@ -1,0 +1,15 @@
+{
+  "name": "codeial-website",
+  "version": "1.0.0",
+  "description": "All my social media web applications",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raju kumar vishwakrma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
